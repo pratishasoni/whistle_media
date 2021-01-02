@@ -64,7 +64,7 @@
     <div class="intro-container" data-aos="zoom-in" data-aos-delay="100">
       <h1 class="mb-4 pb-0">Whistle <br><span>Media</span></h1>
       <p class="mb-4 pb-0">Entertainment Content Creator</p>
-      <a href="https://www.youtube.com/watch?v=4_a1qHe279s" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+      <a href="https://www.youtube.com/watch?v=e3zV5hmI9BY" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
       <a href="#about" class="about-btn scrollto">Latest Project</a>
     </div>
   </section><!-- End Intro Section -->
@@ -76,49 +76,110 @@
       <div class="container" data-aos="fade-up">
         <div class="row">
           <div class="col-lg-6">
-            <h2>PRADEEPTI</h2>
-            <p>We are proud to announce that our documentary on village women entrepreneurs 'Pradeepti' has been acquired and live on OTT platform Mowglibaba.
+            <h2>About Us</h2>
+            <p>Whistle goes through a creative way and helps you to stand out in a crowd.
+For any kind of video production, content creation and digital marketing reach Whistle Media.We are here to create magic!
 
-This was our efforts to showcase the belief, skills and confidence of these women who made employment not for themselves but also made the whole village AATMNIRBHAR.
 
-Do watch and share the inspirational story of these super women from choral.
 </p>
           </div>
           <div class="col-lg-3">
-            <h3>Where</h3>
-            <p>OTT platform Mowglibaba</p>
-          </div>
+           </div>
           <div class="col-lg-3">
-            <h3>Youtube</h3>
-            <a href="https://www.youtube.com/watch?v=4_a1qHe279s"> Find here</a>
+            <h3>Find Us on YouTube</h3>
+             <a href="https://www.youtube.com/channel/UCGZDFZlNRt9VzqZyFfcO79w" class="about-btn scrollto">Find Us</a>
+            
       
           </div>
         </div>
       </div>
     </section><!-- End About Section -->
 
+<!-- Start  Services Section -->
+
+    <section id="faq">
+
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>SERVICES</h2>
+        </div>
+
+        <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-9">
+            <ul id="faq-list">
+
+              <li>
+                <a data-bs-toggle="collapse" class="collapsed" data-bs-target="#faq1">
+                  COMMERCIAL
+                  <i class="fa fa-minus-circle"></i></a>
+                <div id="faq1" class="collapse" data-bs-parent="#faq-list">
+                  <p><b>
+                    VIDEO ADVERTISEMENTS<BR>
+                    CORPORATE FILMS<BR>
+                    BRAND/ PRODUCT VIDEOS<BR>
+                    COMMERCIALS<BR>
+</b>                  </p>
+                </div>
+              </li>
+
+              <li>
+                <a data-bs-toggle="collapse" data-bs-target="#faq2" class="collapsed">ENTERTAINMENT<i class="fa fa-minus-circle"></i></a>
+                <div id="faq2" class="collapse" data-bs-parent="#faq-list">
+                  <p><b>
+                    DOCUMENTARY<br>
+WEB SERIES<br>
+EVENT VIDEOS<br>
+BABY FILMS<br>
+ENTERTAINMENT CONTENT<br>
+</b>
+                  </p>
+                </div>
+              </li>
+
+              <li>
+                <a data-bs-toggle="collapse" data-bs-target="#faq3" class="collapsed">CONTENT <i class="fa fa-minus-circle"></i></a>
+                <div id="faq3" class="collapse" data-bs-parent="#faq-list">
+                  <p><b>
+                    SCRIPT WRITING<br>
+DIGITAL MARKETING<br></b>
+                  </p>
+                </div>
+              </li>
+
+             
+
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- End  Services Section -->
+
+
     <!-- ======= Speakers Section ======= -->
-    <section id="speakers">
+   <!--  <section id="speakers">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h2>Recent Work</h2>
           <p>Here are some of our Recent projects</p>
         </div>
-
-        <div class="row">
+ -->
+       <!--  <div class="row">
             <div class="col-lg-3 col-md-3">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
                <div class="embed-responsive embed-responsive-21by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4_a1qHe279s"></iframe>
   </div>
-                <!-- <img src="https://www.youtube.com/embed/t5kUZsC3-dw" class="img-fluid"> -->
+                
               <div class="details">
                 <h3><a href="#">Pradeepti</a></h3>
                 <p>Documetary</p>
                 </div>
             </div>
-          </div> 
-          <div class="col-lg-3 col-md-4">
+          </div>  -->
+<!--           <div class="col-lg-3 col-md-4">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
                <div class="embed-responsive embed-responsive-21by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/t5kUZsC3-dw"></iframe>
@@ -129,7 +190,7 @@ Do watch and share the inspirational story of these super women from choral.
                 </div>
             </div>
           </div>
-           <div class="col-lg-3 col-md-5">
+ -->          <!--  <div class="col-lg-3 col-md-5">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
                <div class="embed-responsive embed-responsive-21by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_dRCWxSHeIA"></iframe>
@@ -141,7 +202,7 @@ Do watch and share the inspirational story of these super women from choral.
               </div>
             </div>
           </div>
-           <div class="col-lg-3 col-md-6">
+           --> <!-- <div class="col-lg-3 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
                <div class="embed-responsive embed-responsive-21by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XftjEzmzka8"></iframe>
@@ -153,7 +214,7 @@ Do watch and share the inspirational story of these super women from choral.
               </div>
             </div>
           </div>
-
+ -->
          <!--  <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="200">
               <img src="assets/img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
@@ -229,21 +290,21 @@ Do watch and share the inspirational story of these super women from choral.
               </div>
             </div>
           </div> -->
-
+<!-- 
         </div>
       </div>
 
-    </section><!-- End Speakers Section -->
+    </section> --><!-- End Speakers Section -->
 
     <!-- ======= Schedule Section ======= -->
     <section id="schedule" class="section-with-bg">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Event Schedule</h2>
-          <p>Here is our event schedule</p>
+          <h2>Recent Work</h2>
+          <p>Here is our Recent Projects</p>
         </div>
 
-        <ul class="nav nav-tabs" role="tablist" data-aos="fade-up" data-aos-delay="100">
+       <!--  <ul class="nav nav-tabs" role="tablist" data-aos="fade-up" data-aos-delay="100">
           <li class="nav-item">
             <a class="nav-link active" href="#day-1" role="tab" data-bs-toggle="tab">Day 1</a>
           </li>
@@ -255,253 +316,76 @@ Do watch and share the inspirational story of these super women from choral.
           </li>
         </ul>
 
-        <h3 class="sub-heading">Voluptatem nulla veniam soluta et corrupti consequatur neque eveniet officia. Eius
-          necessitatibus voluptatem quis labore perspiciatis quia.</h3>
-
+        <h3 class="sub-heading">Voluptatem nulla veniam soluta et corrupti consequatur neque eveniet officia. Eius necessitatibus voluptatem quis labore perspiciatis quia.</h3>
+ -->
         <div class="tab-content row justify-content-center" data-aos="fade-up" data-aos-delay="200">
 
           <!-- Schdule Day 1 -->
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>09:30 AM</time></div>
-              <div class="col-md-10">
-                <h4>Registration</h4>
-                <p>Fugit voluptas iusto maiores temporibus autem numquam magnam.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>10:00 AM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/1.jpg" alt="Brenden Legros">
-                </div>
-                <h4>Keynote <span>Brenden Legros</span></h4>
-                <p>Facere provident incidunt quos voluptas.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>11:00 AM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/2.jpg" alt="Hubert Hirthe">
-                </div>
-                <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
-                <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>12:00 AM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/3.jpg" alt="Cole Emmerich">
-                </div>
-                <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
-                <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>02:00 PM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/4.jpg" alt="Jack Christiansen">
-                </div>
-                <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
-                <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>03:00 PM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/5.jpg" alt="Alejandrin Littel">
-                </div>
-                <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
-                <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>04:00 PM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/6.jpg" alt="Willow Trantow">
-                </div>
-                <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
-                <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
-              </div>
-            </div>
-
+          <div class="row schedule-item">
+          <div class="col-md-6"> <div class="embed-responsive embed-responsive-21by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XftjEzmzka8">
+          </iframe>
+          </div>      
           </div>
-          <!-- End Schdule Day 1 -->
-
-          <!-- Schdule Day 2 -->
-          <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-2">
+             <div class="col-md-6">
+              <h4>DHAIWAT</h4>
+              <p>Watch Rahat Indori Sahab's last ever documented video with us on our channel.*
+              Dhaiwat Collabs is a series of collaboration where our young classical fusion band *”DHAIWAT"* collaborates with other artist who inspire us . We were fortunate enough to be able to work with Rahat Indori sahab as in our first collaboration , who let us recreat his gazal with our music and also gave his precious voice in the music video, and left us with a priceless treasure .
+              </div>
+              </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>10:00 AM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/1.jpg" alt="Brenden Legros">
-                </div>
-                <h4>Libero corrupti explicabo itaque. <span>Brenden Legros</span></h4>
-                <p>Facere provident incidunt quos voluptas.</p>
-              </div>
+            <div class="col-md-6"> <div class="embed-responsive embed-responsive-21by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4_a1qHe279s">
+            </iframe>
+            </div>      
+            </div>
+            <div class="col-md-6">
+            <h4>PRADEEPTI</h4>
+            <p>We are proud to announce that our documentary on village women entrepreneurs 'Pradeepti' has been acquired and live on OTT platform Mowglibaba.This was our efforts to showcase the belief, skills and confidence of these women who made employment not for themselves but also made the whole village AATMNIRBHAR.Do watch and share the inspirational story of these super women from choral.
+            </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>11:00 AM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/2.jpg" alt="Hubert Hirthe">
-                </div>
-                <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
-                <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
-              </div>
+            <div class="col-md-6"> <div class="embed-responsive embed-responsive-21by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_dRCWxSHeIA">
+            </iframe>
+            </div>      
+            </div>
+            <div class="col-md-6">
+            <h4>Zomato</h4>
+            <p>Zomato not only serves food it serves happiness and it should be for eveeryone. watch how we serve smiles all over with bag full of happiness and ofcourse Food.</p>
+            </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>12:00 AM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/3.jpg" alt="Cole Emmerich">
-                </div>
-                <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
-                <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
-              </div>
+            <div class="col-md-6"> <div class="embed-responsive embed-responsive-21by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/t5kUZsC3-dw">
+            </iframe>
+            </div>      
             </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>02:00 PM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/4.jpg" alt="Jack Christiansen">
-                </div>
-                <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
-                <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
-              </div>
+            <div class="col-md-6">
+            <h4>Meera Neuro Center</h4>
+            <p>Meera Neuro Centre
+            Our latest commercial film for Meera Neuro Centre,Indore.
+            A film made comprising detailed information and all offerings in a creative manner.
             </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>03:00 PM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/5.jpg" alt="Alejandrin Littel">
-                </div>
-                <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
-                <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
-              </div>
             </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>04:00 PM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/6.jpg" alt="Willow Trantow">
-                </div>
-                <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
-                <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
-              </div>
-            </div>
-
-          </div>
-          <!-- End Schdule Day 2 -->
-
-          <!-- Schdule Day 3 -->
-          <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>10:00 AM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/2.jpg" alt="Hubert Hirthe">
-                </div>
-                <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
-                <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>11:00 AM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/3.jpg" alt="Cole Emmerich">
-                </div>
-                <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
-                <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>12:00 AM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/1.jpg" alt="Brenden Legros">
-                </div>
-                <h4>Libero corrupti explicabo itaque. <span>Brenden Legros</span></h4>
-                <p>Facere provident incidunt quos voluptas.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>02:00 PM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/4.jpg" alt="Jack Christiansen">
-                </div>
-                <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
-                <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>03:00 PM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/5.jpg" alt="Alejandrin Littel">
-                </div>
-                <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
-                <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>04:00 PM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="assets/img/speakers/6.jpg" alt="Willow Trantow">
-                </div>
-                <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
-                <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
-              </div>
-            </div>
-
-          </div>
-          <!-- End Schdule Day 2 -->
-
-        </div>
-
-      </div>
+     
 
     </section><!-- End Schedule Section -->
 
     <!-- ======= Venue Section ======= -->
     <section id="venue">
-
       <div class="container-fluid" data-aos="fade-up">
-
         <div class="section-header">
-          <h2>Event Venue</h2>
-          <p>Event venue location info and gallery</p>
+          <h2>Work</h2>
+          <p>Latest Events and Work gallery</p>
         </div>
 
         <div class="row no-gutters">
-          <div class="col-lg-6 venue-map">
+          <!-- <div class="col-lg-6 venue-map">
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
 
@@ -512,7 +396,7 @@ Do watch and share the inspirational story of these super women from choral.
                 <p>Iste nobis eum sapiente sunt enim dolores labore accusantium autem. Cumque beatae ipsam. Est quae sit qui voluptatem corporis velit. Qui maxime accusamus possimus. Consequatur sequi et ea suscipit enim nesciunt quia velit.</p>
               </div>
             </div>
-          </div>
+          </div> -->
         </div>
 
       </div>
@@ -523,48 +407,48 @@ Do watch and share the inspirational story of these super women from choral.
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
 
-              <a href="assets/img/venue-gallery/1.jpg" class="venobox" data-gall="venue-gallery">
-                <img src="assets/img/venue-gallery/1.jpg" alt="" class="img-fluid">
+              <a href="assets/img/posters/wm1.png" class="venobox" data-gall="venue-gallery">
+                <img src="assets/img/posters/wm1.png" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="assets/img/venue-gallery/2.jpg" class="venobox" data-gall="venue-gallery">
-                <img src="assets/img/venue-gallery/2.jpg" alt="" class="img-fluid">
+              <a href="assets/img/posters/wm4.png" class="venobox" data-gall="venue-gallery">
+                <img src="assets/img/posters/wm4.png" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="assets/img/venue-gallery/3.jpg" class="venobox" data-gall="venue-gallery">
-                <img src="assets/img/venue-gallery/3.jpg" alt="" class="img-fluid">
+              <a href="assets/img/posters/wm5.png" class="venobox" data-gall="venue-gallery">
+                <img src="assets/img/posters/wm5.png" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="assets/img/venue-gallery/4.jpg" class="venobox" data-gall="venue-gallery">
-                <img src="assets/img/venue-gallery/4.jpg" alt="" class="img-fluid">
+              <a href="assets/img/posters/wm6.png" class="venobox" data-gall="venue-gallery">
+                <img src="assets/img/posters/wm6.png" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="assets/img/venue-gallery/5.jpg" class="venobox" data-gall="venue-gallery">
-                <img src="assets/img/venue-gallery/5.jpg" alt="" class="img-fluid">
+              <a href="assets/img/posters/wm7.png" class="venobox" data-gall="venue-gallery">
+                <img src="assets/img/posters/wm7.png" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="assets/img/venue-gallery/6.jpg" class="venobox" data-gall="venue-gallery">
-                <img src="assets/img/venue-gallery/6.jpg" alt="" class="img-fluid">
+             <a href="assets/img/posters/wm8.png" class="venobox" data-gall="venue-gallery">
+                <img src="assets/img/posters/wm8.png" alt="" class="img-fluid">
               </a>
             </div>
           </div>
@@ -654,7 +538,8 @@ Do watch and share the inspirational story of these super women from choral.
         </div>
       </div>
 
-    </section><!-- End Hotels Section --> -->
+    </section>
+   --> 
 
     <!-- ======= Gallery Section ======= -->
     <section id="gallery">
@@ -667,32 +552,29 @@ Do watch and share the inspirational story of these super women from choral.
       </div>
 
       <div class="owl-carousel gallery-carousel" data-aos="fade-up" data-aos-delay="100">
-         <div class="embed-responsive embed-responsive-16by9"  >
-    <iframe class="embed-responsive-item" allowfullscreen src="https://www.youtube.com/embed/Zh2zbf1ejRM" width="248"></iframe>
-  </div>   
+       
+      <div class="embed-responsive embed-responsive-16by9"  >
+      <iframe class="embed-responsive-item"  src="https://www.youtube.com/embed/Zh2zbf1ejRM"></iframe>
+      </div>   
+      
       <div class="embed-responsive embed-responsive-1by1">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HHdtVbYcaSo" width="245"></iframe>
-  </div>  
-       <div class="embed-responsive embed-responsive-4bwiy3">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/trixkBR8Jik" width="245"></iframe>
-  </div>    
-  <div class="embed-responsive embed-responsive-4by3">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GU2vy4RMvZA" width="245"></iframe>
-  </div>  
-        <!-- <a href="assets/img/gallery/1.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/1.jpg" alt=""></a>
-        <a href="assets/img/gallery/2.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/2.jpg" alt=""></a>
-        <a href="assets/img/gallery/3.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/3.jpg" alt=""></a>
-        <a href="assets/img/gallery/4.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/4.jpg" alt=""></a>
-        <a href="assets/img/gallery/5.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/5.jpg" alt=""></a>
-        <a href="assets/img/gallery/6.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/6.jpg" alt=""></a>
-        <a href="assets/img/gallery/7.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/7.jpg" alt=""></a>
-        <a href="assets/img/gallery/8.jpg" class="venobox" data-gall="gallery-carousel"><img src="assets/img/gallery/8.jpg" alt=""></a> -->
-      </div>
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HHdtVbYcaSo"></iframe>
+      </div>  
+    
+      <div class="embed-responsive embed-responsive-4bwiy3">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/trixkBR8Jik"></iframe>
+      </div>    
+  
+    <div class="embed-responsive embed-responsive-4by3">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GU2vy4RMvZA"></iframe>
+    </div> 
 
+  </div> 
+       
     </section><!-- End Gallery Section -->
 
     <!-- ======= Supporters Section ======= -->
-    <section id="supporters" class="section-with-bg">
+    <!-- <section id="supporters" class="section-with-bg">
 
       <div class="container" data-aos="fade-up">
         <div class="section-header">
@@ -753,123 +635,12 @@ Do watch and share the inspirational story of these super women from choral.
 
       </div>
 
-    </section><!-- End Sponsors Section -->
+    </section> --><!-- End Sponsors Section -->
 
     <!-- =======  F.A.Q Section ======= -->
-    <section id="faq">
-
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-header">
-          <h2>F.A.Q </h2>
-        </div>
-
-        <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-9">
-            <ul id="faq-list">
-
-              <li>
-                <a data-bs-toggle="collapse" class="collapsed" data-bs-target="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="fa fa-minus-circle"></i></a>
-                <div id="faq1" class="collapse" data-bs-parent="#faq-list">
-                  <p>
-                    Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
-                  </p>
-                </div>
-              </li>
-
-              <li>
-                <a data-bs-toggle="collapse" data-bs-target="#faq2" class="collapsed">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="fa fa-minus-circle"></i></a>
-                <div id="faq2" class="collapse" data-bs-parent="#faq-list">
-                  <p>
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                  </p>
-                </div>
-              </li>
-
-              <li>
-                <a data-bs-toggle="collapse" data-bs-target="#faq3" class="collapsed">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="fa fa-minus-circle"></i></a>
-                <div id="faq3" class="collapse" data-bs-parent="#faq-list">
-                  <p>
-                    Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-                  </p>
-                </div>
-              </li>
-
-              <li>
-                <a data-bs-toggle="collapse" data-bs-target="#faq4" class="collapsed">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="fa fa-minus-circle"></i></a>
-                <div id="faq4" class="collapse" data-bs-parent="#faq-list">
-                  <p>
-                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-                  </p>
-                </div>
-              </li>
-
-              <li>
-                <a data-bs-toggle="collapse" data-bs-target="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="fa fa-minus-circle"></i></a>
-                <div id="faq5" class="collapse" data-bs-parent="#faq-list">
-                  <p>
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-                  </p>
-                </div>
-              </li>
-
-              <li>
-                <a data-bs-toggle="collapse" data-bs-target="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="fa fa-minus-circle"></i></a>
-                <div id="faq6" class="collapse" data-bs-parent="#faq-list">
-                  <p>
-                    Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
-                  </p>
-                </div>
-              </li>
-
-            </ul>
-          </div>
-        </div>
-
-      </div>
-
-    </section><!-- End  F.A.Q Section -->
-
+    
    
-    <!-- ======= Buy Ticket Section ======= -->
-    <section id="buy-tickets" class="section-with-bg">
-     
-
-      <!-- Modal Order Form -->
-      <!-- <div id="buy-ticket-modal" class="modal fade">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h4 class="modal-title">Buy Tickets</h4>
-              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body">
-              <form method="POST" action="#">
-                <div class="form-group">
-                  <input type="text" class="form-control" name="your-name" placeholder="Your Name">
-                </div>
-                <div class="form-group mt-3">
-                  <input type="text" class="form-control" name="your-email" placeholder="Your Email">
-                </div>
-                <div class="form-group mt-3">
-                  <select id="ticket-type" name="ticket-type" class="form-select">
-                    <option value="">-- Select Your Ticket Type --</option>
-                    <option value="standard-access">Standard Access</option>
-                    <option value="pro-access">Pro Access</option>
-                    <option value="premium-access">Premium Access</option>
-                  </select>
-                </div>
-                <div class="text-center mt-3">
-                  <button type="submit" class="btn">Buy Now</button>
-                </div>
-              </form>
-            </div>
-          </div><!-- /.modal-content -->
-        </div><!-- /.modal-dialog -->
-      </div><!-- /.modal -->
-
-    </section> --><!-- End Buy Ticket Section -->
-
+   
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="section-bg">
 
@@ -902,7 +673,7 @@ Do watch and share the inspirational story of these super women from choral.
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@example.com">whistlemedia@gmail.com</a></p>
+              <p><a href="mailto:whistlemediagroup@gmail.com">whistlemediagroup@gmail.com</a></p>
             </div>
           </div>
 
@@ -965,7 +736,8 @@ we make all kinds of videos</p>
               <li><i class="fa fa-angle-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
           </div>
-
+        <div class="col-lg-3 col-md-6 footer-links">
+        </div>
 
   <div class="col-lg-3 col-md-6 footer-links"></div>
           <div class="col-lg-3 col-md-6 footer-contact">
@@ -974,8 +746,8 @@ we make all kinds of videos</p>
               Indore  <br>
               Madhya Pradesh<br>
               India <br>
-              <strong>Phone:</strong> +91 9806580807<br>
-              <strong>Email:</strong> whistlemeadia@gmail.com<br>
+              <strong>Phone:</strong><a href="tel:+919806580807">+91 9806580807</a><br>
+              <strong>Email:</strong> <a href="mailto:whistlemediagroup@gmail.com">whistlemediagroup@gmail.com</a><br>
             </p>
 
             <div class="social-links">
@@ -987,11 +759,11 @@ we make all kinds of videos</p>
             </div>
 
           </div>
-        <div class="col-lg-3 col-md-6 footer-links">
+        <!-- <div class="col-lg-3 col-md-6 footer-links">
             <div class="col-lg-6 venue-map">
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
-
+ -->
           <!--   <h4>Useful Links</h4>
             <ul>
               <li><i class="fa fa-angle-right"></i> <a href="#">Home</a></li>
